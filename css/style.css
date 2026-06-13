@@ -244,9 +244,5 @@ footer{
 
 .signup-btn:hover{
     transform:translateY(-2px);
-    box-shadow:0 5px 15px rgba(6,182,212,.4);
-<<<<<<< HEAD
+    box-shadow:0 5px 15px rgba(244, 245, 245, 0.3);
 }
-=======
-}
->>>>>>> feature/navbar
