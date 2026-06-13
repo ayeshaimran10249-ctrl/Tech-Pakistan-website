@@ -1,0 +1,33 @@
+#theme-btn{
+    padding:10px 15px;
+    border:none;
+    border-radius:50%;
+    cursor:pointer;
+    font-size:18px;
+}
+
+/* Dark Mode */
+
+.dark-mode{
+    background:#121212;
+    color:white;
+}
+
+.dark-mode nav{
+    background:black;
+}
+
+.dark-mode .feature-card,
+.dark-mode .stat-box,
+.dark-mode .news-card{
+    background:#1e1e1e;
+    color:white;
+}
+
+.dark-mode footer{
+    background:black;
+}
+
+.dark-mode .hero{
+    background:linear-gradient(135deg,#111,#333);
+}
