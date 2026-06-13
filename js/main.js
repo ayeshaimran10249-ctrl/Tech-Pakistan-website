@@ -1,3 +1,10 @@
+
+
+const btn = document.getElementById("btn");
+
+btn.addEventListener("click", () => {
+    alert("Welcome to Tech Pakistan 🚀");
+});
 const themeBtn = document.getElementById("theme-btn");
 
 if(localStorage.getItem("theme") === "dark"){
